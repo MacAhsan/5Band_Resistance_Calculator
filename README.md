@@ -14,3 +14,7 @@ In order to provide the concept, unit test has been written for PopperChooseColo
 In order to see test cases running.
 
 1. npm test
+
+# Screenshot
+
+![alt text](https://github.com/MacAhsan/5Band_Resistance_Calculator/blob/master/public/screenshot.png?raw=true)
