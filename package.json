@@ -1,0 +1,26 @@
+{
+  "name": "calculator_resistence",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.5.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "expect": "^21.1.0",
+    "jest": "^21.2.1",
+    "jest-mock": "^21.2.0",
+    "jsdom": "11.3.0",
+    "jsdom-global": "3.0.2",
+    "mocha": "^4.0.1",
+    "react-addons-test-utils": "^15.6.0"
+  }
+}

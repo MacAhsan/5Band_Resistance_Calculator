@@ -1,0 +1,27 @@
+.Circle-Block {
+
+}
+
+.Circle-Circle {
+  height: 3rem;
+  width:  3rem;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all .4s
+}
+
+.Circle-Circle:hover {
+  box-shadow: 0 0 3px 8px rgba(32, 206, 212, 0.308);
+  transform: scale(1.2)
+}
+
+.Circle-Circle:active {
+  box-shadow: 0 0 3px 8px rgba(32, 206, 212, 0.637)
+}
+
+.Circle-Text {
+  margin-top: 0.7em;
+  font-size: .9rem;
+  text-align: center;
+  color: #585454
+}
